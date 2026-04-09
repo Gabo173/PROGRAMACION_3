@@ -1,7 +1,6 @@
 <?php 
-require "public/plantilla.html";
+require_once "public/plantilla.html";
 startblock('article');
-?> 
-
+?>
 
 <?php  endblock();?>
